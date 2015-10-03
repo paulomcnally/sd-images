@@ -1,0 +1,25 @@
+{
+  "name": "sd-images",
+  "version": "0.0.1",
+  "description": "Images from Cloudinary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulomcnally/sd-images.git"
+  },
+  "keywords": [
+    "cloudinary",
+    "images",
+    "selfie",
+    "discount"
+  ],
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulomcnally/sd-images/issues"
+  },
+  "homepage": "https://github.com/paulomcnally/sd-images#readme"
+}
